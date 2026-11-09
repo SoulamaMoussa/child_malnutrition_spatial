@@ -57,7 +57,7 @@ Imaginons un district sanitaire ou une ONG de nutrition qui dispose de moyens li
 
 ## Outils
 
-[À compléter : logiciels et packages utilisés, par exemple R, packages de statistique spatiale, QGIS.]
+R etait au coeur de ce projet en utilisant des packages : ggplot, tidyverve, MASS, sf
 
 ## Données et confidentialité
 
